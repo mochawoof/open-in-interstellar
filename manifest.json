@@ -1,0 +1,12 @@
+{
+	"manifest_version": 3,
+	"name": "Interstellar",
+	"description": "Open links in Interstellar",
+	"version": "1.0",
+	"permissions": [
+		"contextMenus"
+	],
+	"background": {
+		"service_worker": "script.js"
+	}
+}
